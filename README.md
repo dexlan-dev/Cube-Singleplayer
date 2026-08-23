@@ -11,3 +11,5 @@ Easy in-dev game,
 * don't have JSON files
 * "game.exe" and "Game222.cpp" have SFML lib
 * you can create your self mod with this game
+
+## created with dexlan-dev do not copiright.
