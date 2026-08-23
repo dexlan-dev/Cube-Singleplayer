@@ -23,7 +23,7 @@ Easy in-dev game,
 * The game is completely safe please download it only from this official repository to avoid malware
 
 ## 🔼 System Requirements
-* OS: Windows Vista, Windows 7, 8, 10, 11, 12 (64-bit) (32-bit)
+* OS: Windows 95, Windowws 98, Windows NT 4.0, Windows Vista, Windows 7, 8, 10, 11, 12 (64-bit) (32-bit) (16-bit) (8-bit)
 * Processor: Intel, AMD, Ryzen and more
 * Memory: 2 GB RAM or more
 * Graphics: DirectX 11 compatible, AMD, Radeon, and more
