@@ -12,4 +12,4 @@ Easy in-dev game,
 * "game.exe" and "Game222.cpp" have SFML lib
 * you can create your self mod with this game
 
-## created with dexlan-dev do not copiright.
+## created by dexlan-dev do not copyright.
