@@ -16,6 +16,14 @@ Easy in-dev game,
 * do not be alarmed if Windows stopped exe file
 * just click into More info and Run anyway
 * wait a second
-* The game is completely safe please download it only from this official repository to avoid malware 
+* The game is completely safe please download it only from this official repository to avoid malware
 
-## created by dexlan-dev do not copyright.
+## 🔼 System Requirements
+* OS: Windows Vista, Windows 7, 8, 10, 11, 12 (64-bit) (32-bit)
+* Pocessor: Intel, AMD, Ryzen and more
+* Memory: 2 GB RAM or more
+* Graphics: DirectX 11 compatible, AMD, Radeon, and more
+* Storage: 1-100 MB or more available space
+  
+## created by dexlan-dev do not copyright. (C) 2026
+## you can create mods.
