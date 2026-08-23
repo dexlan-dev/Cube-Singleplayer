@@ -25,5 +25,5 @@ Easy in-dev game,
 * Graphics: DirectX 11 compatible, AMD, Radeon, and more
 * Storage: 1-100 MB or more available space
   
-## created by dexlan-dev do not copyright. (C) 2026
+## created by dexlan-dev do not copyright. (C)
 ## you can create mods.
