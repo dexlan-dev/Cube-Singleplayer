@@ -8,8 +8,14 @@ Easy in-dev game,
 3. start "game.exe" file
 
 ## 💻 created with C++
-* don't have JSON files
+* does not use JSON files
 * "game.exe" and "Game222.cpp" have SFML lib
-* you can create your self mod with this game
+* you can create your own mods with this game
+  
+## ✅ security and safety
+* do not be alarmed if Windows stopped exe file
+* just click into More info and Run anyway
+* wait a second
+* The game is completely safe please download it only from this official repository to avoid malware 
 
 ## created by dexlan-dev do not copyright.
